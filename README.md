@@ -1,13 +1,21 @@
-### Hi there 👋
-I am a full-stack developer using the following technologies:
+### 👩‍💻 Front end developer
 
-Front-End: Next.js, Typescript, React, jQuery, Tailwind, Material UI, Bootstrap.<br/>
-Back-End: Node.js, Express.<br/>
-DevOps: Git, GitHub.<br/>
-Tools: Photoshop, Figma.<br/>
-Testing: Jest.<br/>
+https://theshirya.xyz
 
-I am 23 years old.
+Detail-oriented front end developer with 1 year experience working with HTML, CSS, JS, React, Typescript.
+Highly adept at both independent and collaborative projects, with an emphasis on design and website development.
+
+Skills:
+- React, Typescript, Next.js, Tailwind, Bootstrap.
+- 3rd party JS libraries.
+- Git, GitHub, Jira.
+- SCRUM and Agile methodology.
+- DOM Manipulation.
+- SEO optimization.
+- Website implementation.
+- Website performance optimization (WPO).
+- Unit tests (Jest).
+- Photoshop, Figma.
+
 Based in Gdańsk, Poland.
-Interested in Programming, English Language and music.
-In my spare time i usually coding or doing gymnastics :)
+In my spare time i usually coding or doing gymnastics.
