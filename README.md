@@ -1,16 +1,18 @@
-### 👩‍💻 Front end developer
+### 👩‍💻 Vibe Coder
 
 Skills:
-- React, Typescript, Next.js, Tailwind, Bootstrap.
-- 3rd party JS libraries.
-- Git, GitHub, Jira.
-- SCRUM and Agile methodology.
-- DOM Manipulation.
-- SEO optimization.
-- Website implementation.
-- Website performance optimization (WPO).
-- Unit tests (Jest).
-- Photoshop, Figma.
+- Front end development
+- React, Next.js
+- Responsive Design
+- Cross-browser styling
+- RestAPI & basics of GraphQL
+- Sanity CMS & Contentful
+- Redux & Zustand
+
+Languages:
+- English - B2
+- Polish - Almost Native Speaker
+- Russian - Native Speaker
+- Ukrainian - Native Speaker
 
 Based in Wrocław, Poland.
-In my spare time i usually coding or doing gymnastics.
